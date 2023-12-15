@@ -1,7 +1,5 @@
 # pyspark-data-pipeline
 
-# My Data Pipeline Project
-
 ## Overview
 
 This repository contains the source code for a PySpark data pipeline. The pipeline is designed to handle various data sources, perform transformations, and write results to different output formats.
